@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Fala aí! Eu sou o Rodnei
 
-<!--
-**RodneiAndradee/RodneiAndradee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Dev .NET | 💡 Apaixonado por tecnologia e inovação
 
-Here are some ideas to get you started:
+🌱 Atualmente estudando:
+- ASP.NET Core
+- Entity Framework
+- Azure
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meus super poderes:
+- C# ⚡
+- SQL 🧩
+- HTML, CSS, JS 🕸️
+##
+Empenhado em aprender sempre mais, e motivado a crescer pessoalmente e profissionalmente.
+##
+📈 Estatísticas do GitHub:
+![Rod's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodneiAndradee&show_icons=true&theme=dracula)
+
+📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodnei-andrade/)
